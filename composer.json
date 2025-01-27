@@ -1,12 +1,12 @@
 {
-    "name": "seisigmasrl/lemonsqueezy-php",
+    "name": "nextend/lemonsqueezy-php",
     "description": "Lemon Squeezy API client for PHP",
     "keywords": [
         "seisigmasrl",
         "ricardov03",
         "lemonsqueezy-php"
     ],
-    "homepage": "https://github.com/seisigmasrl/lemonsqueezy.php",
+    "homepage": "https://github.com/nextend/lemonsqueezy.php",
     "license": "MIT",
     "authors": [
         {
